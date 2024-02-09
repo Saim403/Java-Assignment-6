@@ -1,0 +1,8 @@
+  /* Optional: Add some basic styling to the div */
+  #myDiv {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border: 1px solid #000;
+    padding: 20px;
+  }
